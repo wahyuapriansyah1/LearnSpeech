@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan Pengucapan Bahasa Inggris</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Latihan Pengucapan Bahasa Inggris</h1>
+        <div class="phrase-section">
+            <label for="target-phrase">Frasa Target:</label>
+            <div id="target-phrase">Loading...</div>
+            <button id="next-phrase">Frasa Berikutnya</button>
+        </div>
+        <div class="controls">
+            <button id="start-btn">Mulai Bicara</button>
+            <button id="stop-btn" disabled>Berhenti</button>
+            <span id="status">Siap</span>
+        </div>
+        <div class="result-section">
+            <label for="result-text">Hasil Transkripsi:</label>
+            <div id="result-text">-</div>
+            <div id="feedback"></div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
