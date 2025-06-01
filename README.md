@@ -37,9 +37,6 @@ Aplikasi web gratis untuk membantu pengguna melatih dan meningkatkan pengucapan 
 ## Kontribusi
 Pull request dan saran sangat diterima!
 
-## masukan atau Saran Ketik Di bawah sini :
-
--
 
 ---
 Copyright © 2025
